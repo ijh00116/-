@@ -1,5 +1,6 @@
 # 은빛용사키우기:마녀를 지켜라
 1인개발 프로젝트(Android출시, IOS 출시)
+개인 포트폴리오
 
 ## 구글 플레이 스토어
 - https://play.google.com/store/apps/details?id=com.blacktree.idlehero&pcampaignid=web_share
